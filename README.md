@@ -1,7 +1,7 @@
 # Data_Analytics_with_R
 Data Analytics with R module in Msc Data Science
 
-The module covered topics including statistical learning and supervised/unsupervised machine learning. It covered the advantages and disadvanted of the different methods. It also went over what happens when you initialise each model. Using different strategies to find optimal hyperparameters was also a key part of the module.
+The module covered topics including statistical learning and supervised/unsupervised machine learning. It covered the advantages and disadvantages of the different methods. It also went over what happens when you initialise each model. Using different strategies to find optimal hyperparameters was also a key part of the module.
 
 The first coursework (uploaded as CW1) tested on the following topics:
 
