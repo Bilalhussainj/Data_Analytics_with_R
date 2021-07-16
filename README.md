@@ -12,7 +12,7 @@ The first coursework (uploaded as CW1) tested on the following topics:
 * Logistic Regression and Cross Validation
     * The models with different features were evaluated using 10-fold cross validation and AUROC values were also calculated/visualised.
 
-The first coursework (uploaded as CW2) tested on the following topics:
+The second coursework (uploaded as CW2) tested on the following topics:
 
 * Bayesian networks and naïve Bayes classifiers
 * Decision Trees and Random Forest
